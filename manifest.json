@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Digital Wellbeing",
+  "description": "This extension is for monitoring your digital wellbeing. It monitors your time spent on different websites and gives the information.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  }
+}
